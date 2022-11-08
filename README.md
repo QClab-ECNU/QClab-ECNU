@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+welcome to the quantum computing lab @ECNU!
 <!--
 **QClab-ECNU/QClab-ECNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
